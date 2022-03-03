@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Liquidity Constraints and Mortality in Brazil](/pdf/LiquidityMortality_seminar_git.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
