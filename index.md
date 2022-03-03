@@ -17,7 +17,7 @@
 
 ---
 
-### Machine Learning Projects 
+### Machine Learning Projects (Data Science)
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
