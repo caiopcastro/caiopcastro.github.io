@@ -4,11 +4,11 @@
 
 ### Causal Inference Projects - Codes
 
-[Project 1 Title](/sample_page)
+[The Effects of Ambient Light on Criminality in São Paulo (BSc thesis)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Liquidity Constraints and Mortality in Brazil](/pdf/LiquidityMortality_seminar_git.pdf)
+[Liquidity Constraints and Mortality in Brazil (MSc thesis)](/pdf/LiquidityMortality_seminar_git.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
